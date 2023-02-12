@@ -1,20 +1,15 @@
 .microsoft-logo{
-    width: 108px;
+    width: 140px;
 }
 .nav-item{
     color: #262626;
     font-size: 12px;
-}
-.navbar{
-
-    height: 80px;
 }
 .sec-1-title{
     color: #0067b8;
 }
 .sec1-img{
     width: 40px;
-   
 }
 .sec-1-items{
     width: 100%;
@@ -30,24 +25,36 @@
    text-decoration: underline;
 }
 .img-items{
-    background-image: url();
-    background-size: cover;
+  
     width: 100%;
     height: 100%;
 }
 .large-img{
     width: 90%;
-    /* position:relative; */
 }
 .img-text{
-    /* position: absolute; */
     left: 10%;
 }
-/* .shop-img{
-    margin-top: 50px;
-    background-image: url('gldn-XSS-Hero-Xbox-Series-S_VP5-1596x600.webp');
-    background-size: contain;
-    background-repeat: no-repeat;
-} */
+.image-icons img{
+    margin-left: 20px;
+}
+.items-1{
+    list-style: none;
+}
+.footer-inner-item,.footer-last-line{
+
+    text-decoration: none;
+    color: #616161;
+    font-size: 11px;
+    line-height: 30px;
+}
+.footer-items{
+    margin-top: 2rem;
+}
+.footer-inner-item:hover,.footer-last-line:hover{
+    text-decoration: underline;
+    color: #616161;
+}
+
 
 
