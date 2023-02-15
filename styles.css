@@ -5,6 +5,13 @@
     color: #262626;
     font-size: 12px;
 }
+.nav-item:hover{
+    text-decoration: underline;
+}
+.navbar-toggler img{
+    width: 30px;
+}
+
 .sec-1-title{
     color: #0067b8;
 }
@@ -20,6 +27,10 @@
 .learn-more{
     font-size: 18px;
     text-decoration: none;
+}
+.btn-primary{
+    text-decoration: none;
+    color: white;
 }
 .learn-more:hover{
    text-decoration: underline;
